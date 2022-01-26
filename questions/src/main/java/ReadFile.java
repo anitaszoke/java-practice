@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ReadFile {
-    //separator nem lehet ?, vessző kell a válasz és kérdés közé
-    public static final String SEPARATOR = ",";
+    //separator nem lehet "?" -> ";" kell a válasz és kérdés közé
+    public static final String SEPARATOR = ";";
 
     private List<String> questions = new ArrayList<>();
     private List<String> answers = new ArrayList<>();
