@@ -1,0 +1,5 @@
+Mitől absztrakt egy osztály?,Hogy kiteszem elé az abstract módosítószót.
+Mikor kell ellátni egy osztályt abstract minősítővel?,Ha absztrakt metódust tartalmaz.
+Lehet-e absztrakt osztályt példányosítani?,Nem.
+Lehet-e absztrakt osztály egy objektum statikus típusa?,Igen.
+Lehet-e absztrakt osztály egy objektum dinamikus típusa?,Nem.
